@@ -25,6 +25,13 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </p>
 
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SayanMukherjee&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SayanMukherjee&theme=tokyonight" />
+</p>
 
 ---
 
@@ -35,9 +42,7 @@
 
 ### 📫 Connect With Me  
 <p>
-  <a href="https://mail.google.com/mail/u/4/?ogbl"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />📧 mukherjeesayan731@gmail.com</a>
-   <a href="https://github.com/SayanMukherjee"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />github.com/sayanMU007</a>
-   <a href="www.linkedin.com/in/sayan-mukherjee-2a10a8253"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> LinkedIn :www.linkedin.com/in/sayan-mukherjee-2a10a8253
-   </a>
+  <a href="https://github.com/SayanMukherjee"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
 </p>
+
 
